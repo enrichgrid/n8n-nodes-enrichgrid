@@ -1,0 +1,18 @@
+{
+	"node": "n8n-nodes-enrichgrid.enrichGrid",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Data & Storage", "Sales"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://github.com/enrichgrid/n8n-nodes-enrichgrid?tab=readme-ov-file#credentials"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://github.com/enrichgrid/n8n-nodes-enrichgrid?tab=readme-ov-file"
+			}
+		]
+	}
+}
