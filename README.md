@@ -87,6 +87,10 @@ All filters are described in the [API reference](https://enrichgrid.com/api-docs
 
 ## Version history
 
+### 0.1.1
+
+Published from GitHub Actions with npm provenance. No functional changes.
+
 ### 0.1.0
 
 First release: Person (Enrich, Search), Company (Enrich), School (Enrich), Account (Get).
