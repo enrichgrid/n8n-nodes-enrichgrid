@@ -83,6 +83,10 @@ All filters are described in the [API reference](https://enrichgrid.com/api-docs
 - [n8n community nodes documentation](https://docs.n8n.io/integrations/#community-nodes)
 - [EnrichGrid API reference](https://enrichgrid.com/api-docs)
 - [EnrichGrid integrations guide](https://enrichgrid.com/integrations)
+- [Ready-made n8n workflows](https://enrichgrid.com/integrations/n8n) (core nodes only, import as JSON)
+- Also from EnrichGrid: [Python SDK](https://pypi.org/project/enrichgrid/) (`pip install enrichgrid`),
+  [Chrome extension](https://chromewebstore.google.com/detail/camfalbgbfimllhmdncpjmnaabidceci),
+  [Proxycurl adapter](https://github.com/enrichgrid/proxycurl-adapter)
 - Support: support@enrichgrid.com
 
 ## Version history
